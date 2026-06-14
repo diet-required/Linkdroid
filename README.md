@@ -36,6 +36,8 @@ To make it light enough to live on your desktop, I designed a hybrid structure:
 #### ⏳ Coming Soon...
 I'm baking this as fast as I can. Sit tight and hang tight! 🚀
 
+Uh... uh... there is no altitude yet either. That side is incomplete, too. The fact is that it only contains **dummy data** capable of communication on the server side...
+
 </div>
 
 ---
@@ -44,8 +46,8 @@ I'm baking this as fast as I can. Sit tight and hang tight! 🚀
 
 ## 🇰🇷 한국어 버전
 
-> ⚠️ **안내:** 이 프로젝트는 아직 **미완성(WIP)** 상태입니다. ㅈㅅㅈㅅ;;;; 
-> 호다닥 만들어서 금방 올릴 테니까 일단 기다려봐 주세여! XD
+> ⚠️ **안내:** 이 프로젝트는 아직 **미완성(WIP)** 상태임. ㅈㅅㅈㅅ;;;; 
+> 호다닥 만들어서 금방 올릴 테니까 일단 기다려 주셈 XD
 
 ### 📜 라이선스 공지 (중요!)
 * 🐍 **파이썬 코드:** **MIT 라이선스**입니다. 자유롭게 사용하세요!
@@ -67,5 +69,7 @@ I'm baking this as fast as I can. Sit tight and hang tight! 🚀
 
 #### ⏳ 조금만 기다려주세요!
 열심히 굽고 있습니다. 채널 고정! 🚀
+
+그.. 그... 고도도 아직 없어요. 그쪽도 미완이라. 서버쪽에 통신이 가능한 **더미 데이터**들만 들어있다는 사실...
 
 </div>
